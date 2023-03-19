@@ -9,7 +9,7 @@
 
 void initPerso(personne *p)
 {
-
+    printf("test de double changement");
     p->sprite = IMG_Load("perso 2.png");
     if (p->sprite == NULL)
     {

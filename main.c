@@ -9,6 +9,7 @@
 
 int main(int argc, char **argv)
 {
+    printf(" test du mon jeu");
     Uint32 t_prev ,dt;
     int frame=0,aux;
     int continuer = 1;
